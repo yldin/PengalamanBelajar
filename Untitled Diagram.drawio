@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T03:19:35.805Z" agent="5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1" etag="kzpOg0v_jFtIIOalqL4n" version="20.2.2" type="github"><diagram id="x07n9A4C_9XZfE4w28UN" name="Page-1">7VpZb+M2EP41flxDInX5MccmaXdbGEiBdp8KWmIkrinRoCgf++tLSqSsy4mDWG4uP9jk8PR8M9+MSE3gVbq95WiV/MEiTCfAirYTeD0BwINQfivBrhLYNrQqScxJVMkagnvyC+uORlqQCOdaVokEY1SQVVsYsizDoWjJEOds0+72wGjUEqxQjFvbUIL7EFHc6/Y3iURSSQPg7+V3mMSJWdn2ZlVLikxnPXGeoIhtGiL4dQKvOGOiKqXbK0yV8tp6uTnQWm+M40wcM4D8bv15Yf3GwI+HX+Lb1U08h8svepY1ooX+w3qzYmc0gLPoQilS1kKK8pyEE3iZiJRKgS2LnBVZhNUilqzlAnGhYbQdKZDDm9WcFTzEc8xJigXm9ysUkiyWrYFslGNjLA40hgVfl8uoRatd4ijuwrTXhrGWcs5HVABqLKQRYyZX5js5brNH29UIJg2gjYxjigRZt7eBtNHF9XT1CnNG5AaBpR0EzrxqiPYPKWlPofVVjWqi25nIcdoT2X5nIq3b7kSy0Pjbe1FpPM8xJLtvOBKde13NWIa7GLYNh3GRsJhliH5nbKW7/MRC7LT5oEKwtuU1LJOtcDaq9eEtEf/oraryj0b5WmEQzExt12iqZ9Oy4+222urz7falBul1DNKxzmpH4GlCWmMuiGTo72iB6ZzlRBAmwb9eMCFYKpVsOlxQEqsGoeypaTiSildqsnQbq6g1XSDJalMUFgL/KzhBWazWuiyjmDV11WAUJgXHt0hZplMar0B63S92sIdWrY23j4PbB00PAL7fdmLDBg0ysv2gz0a+dxjnFkLPhQP24LhECcqk6BItiwnwqNzB5YLLUqxK0ktV463sxGWzNSeUlP07GEodidJfOVviK0YZ35PEA6G0I2pghzSoodSpcqse2imJohK+TUIEVl6s1txwBV2Hc3qongBDaENpMW0UZ30ULXcgpjzirS9C0T7Cq9qaGdJdA4QxFAeCLvM4fbV5A6HY8cdSm/++Y9oJg5HtniUaQdjBeuysxj3If4uS/6yILDDPSbIshVH1TX7itOAfiPTALGj7rgsMCTa9F3p974XWYaN4kfea2PlevbfOSMsExeSkdjMnrRNUk5Ke0uM14k8/X50kUZVqRbtGh5Vy+fx45nD0CnuLqmY8LV0EbzDOQsc+Ms7Cwxi9zFOtntrmnOVYwmvdy2ScIyJLVWr5YSgVGtupYfIHKDUYeBgYj1HfYhrpHG3ewVhqC84fiB5YJm5QSqjSwh2ma6xsWzeY+AN03ThJhB9QUT7QvdEsFJwnC3VhZ4qxz0T6WWjNj3OcxbF8yM7iMvXUz9+JrMdIFeSQ/AOxJgjaJyiO407BQCbqDvHmzBDs6SlgdmLmfKF/j8CzLgyO5NnZSEqGfZ1+8uwoPGsyjCdz/+r6b3RCrq8Zz0TI8JGEVREyTlFe0vESl4cCFKXy9xvKRCHhANZfOJkAD6XKqbNFvqrReXUc/Qp4ZtY9T3UHM2HbGThRHS0Vhv2D8fdG6B4cOLYeJHRnLCV7n4R+JkJ3xuLpqWN7+w9sWZgP3Oms8ek8gI1N4k6fxA9y95IJtFTszllULD/J+tChhWV1yNoz7yW0zoHtM1K1ef5/bVfK/z9awA86aPlw6MJ5ILB6Y925Of0zpjJbsu4wXyDav3E2V82fHnngOtqe+h2Q3aH76NoUWk75/PcKZHX/TlvF1fs3A+HX/wA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-01T03:31:55.347Z" agent="5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1" etag="U-czB8_Awt8wxFVPwX4j" version="20.2.2" type="github">
+  <diagram id="x07n9A4C_9XZfE4w28UN" name="Page-1">
+    <mxGraphModel dx="380" dy="678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-1" value="" style="endArrow=classic;html=1;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" parent="1" target="iJ0NA0Io2YfztKCFgP3k-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="396" y="223" as="sourcePoint" />
+            <mxPoint x="446" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=0;exitDx=89;exitDy=0;exitPerimeter=0;" parent="1" source="iJ0NA0Io2YfztKCFgP3k-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;hachureGap=4;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="277" y="123" width="178" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-3" value="Bahan Baku&lt;br&gt;Daun Gaharu Pilihan" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="313.5" y="129" width="105" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-12" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="286" y="244" width="160" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="iJ0NA0Io2YfztKCFgP3k-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-15" value="Bahan baku dibersihkan dan dijemur" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="298" y="252.5" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iJ0NA0Io2YfztKCFgP3k-18" target="iJ0NA0Io2YfztKCFgP3k-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="366" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-18" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="286" y="341" width="160" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-20" value="Proses Sangrai Daun" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="322" y="347.5" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-22" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="286" y="441" width="160" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="iJ0NA0Io2YfztKCFgP3k-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366" y="531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-25" value="Proses Penggilingan Daun hingga halus" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="287" y="445.25" width="158" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="286" y="538" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="iJ0NA0Io2YfztKCFgP3k-30" target="iJ0NA0Io2YfztKCFgP3k-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366" y="633" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-30" value="Proses Pengemasan ke dalam Kantung Teh&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="293.5" y="547.5" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="286" y="639" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="iJ0NA0Io2YfztKCFgP3k-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366.41666666666663" y="725.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-34" value="Pengemasan ke dalam kotak Produk" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="300.5" y="646" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="278.5" y="733" width="175" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ0NA0Io2YfztKCFgP3k-42" value="Teh Herbal&lt;br&gt;Gaharu" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="311.75" y="759" width="108.5" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
